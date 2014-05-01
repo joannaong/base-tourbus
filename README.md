@@ -26,6 +26,11 @@ PROJECT/
 |		|		|   |-- menu.jade
 |		|		|   |-- menu.sass
 |		|		|   |-- menu.js
+|		|		|-- pages/             
+|		|		|   |-- index/ 
+|		|		|   |   |-- index-specifiComponent.jade
+|		|		|   |   |-- index-specifiComponent.sass
+|		|		|   |   |-- index-specifiComponent.js
 |		|
 |		|--	pages/
 |		|		|
