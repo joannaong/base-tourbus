@@ -15,29 +15,43 @@ PROJECT/
 |		|		|		|-- *.png
 |		|		|		|-- *.svg
 |		|
-|		|--	components/			# components
+|		|--	shared/					# components
+|		|		|-- menu/
+|		|		|   |-- menu.jade
+|		|		|   |-- menu.sass
+|		|		|   |-- menu.js
 |		|		|
 |		|		|-- button/      
 |		|		|   |-- button.jade
 |		|		|   |-- button.sass
 |		|		|   |-- button.js
 |		|		|
-|		|		|-- menu/             
-|		|		|   |-- menu.jade
-|		|		|   |-- menu.sass
-|		|		|   |-- menu.js
-|		|		|-- pages/             
-|		|		|   |-- index/ 
-|		|		|   |   |-- index-specifiComponent.jade
-|		|		|   |   |-- index-specifiComponent.sass
-|		|		|   |   |-- index-specifiComponent.js
-|		|
 |		|--	pages/
 |		|		|
-|		|		|-- index/
-|		|		|		|-- index.jade
-|		|		|		|-- index.sass
-|		|		|		|-- index.js
+|		|		|-- index/				# page name
+|		|		|		|-- spectrum/
+|		|		|		|		|-- spectrum-vote/
+|		|		|		|		|   |-- spectrum-vote.jade
+|		|		|		|		|   |-- spectrum-vote.sass
+|		|		|		|		|   |-- spectrum-vote.js
+|		|		|		|		|
+|		|		|		|		|-- spectrum-vote2/
+|		|		|		|		|   |-- spectrum-vote2.jade
+|		|		|		|		|   |-- spectrum-vote2.sass
+|		|		|		|		|   |-- spectrum-vote2.js
+|		|		|		|		|
+|		|		|		|		`spectrum.jade
+|		|		|		|		`spectrum.sass
+|		|		|		|		`spectrum.js
+|		|		|		|	
+|		|		|		|-- contentHub/
+|		|		|		|		|-- contentHub.jade
+|		|		|		|		|-- contentHub.sass
+|		|		|		|		|-- contentHub.js
+|		|		|		| 	
+|		|		|		`-- index.jade
+|		|		|		`-- index.sass
+|		|		|		`-- index.js
 |		|		|
 |		|		|-- about/
 |		|		|		|-- about.jade
