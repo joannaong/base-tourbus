@@ -1,6 +1,6 @@
 # Team Toubus
 
-## Web structure
+## Project Structure
 ```
 PROJECT/
 |
@@ -54,3 +54,7 @@ PROJECT/
 - npm install
 - bower install
 - run 'grunt' in command line to develop
+
+
+## Components
+
