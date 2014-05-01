@@ -1,9 +1,11 @@
-# Team Toubus: web structure
+# Team Toubus
+
+## Web structure
 ```
 PROJECT/
 |
 |-- src
-|		|--	assets/								# CDN hosted assets
+|		|--	assets/					# CDN hosted assets
 |		|		|
 |		|		|-- vid/
 |		|		|		|-- *.mp4
@@ -13,7 +15,7 @@ PROJECT/
 |		|		|		|-- *.png
 |		|		|		|-- *.svg
 |		|
-|		|--	components/						# components
+|		|--	components/			# components
 |		|		|
 |		|		|-- button/      
 |		|		|   |-- button.jade
