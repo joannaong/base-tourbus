@@ -1,5 +1,5 @@
 # Team Toubus: web structure
-
+```
 PROJECT/
 |
 |-- src
@@ -45,6 +45,7 @@ PROJECT/
 `-- package.json
 `-- bower.json
 `-- README.md
+```
 
 
 ## Usage
