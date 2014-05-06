@@ -1,6 +1,6 @@
 # Team Toubus
 
-## Structure
+## Folder Structure
 ```
 PROJECT/
 |
