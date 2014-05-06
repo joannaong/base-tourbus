@@ -4,85 +4,85 @@
 ```
 PROJECT/
 |
-|- src
-|  |- assets/
+|-- src
+|  |-- assets/
 |  |  |
-|  |  |- vid/
-|  |  |  |- *.mp4
-|  |  |  |- *.webm
-|  |  |- img/
-|  |  |  |- *.jpg
-|  |  |  |- *.png
-|  |  |  |- *.svg
+|  |  |-- vid/
+|  |  |  |-- *.mp4
+|  |  |  |-- *.webm
+|  |  |-- img/
+|  |  |  |-- *.jpg
+|  |  |  |-- *.png
+|  |  |  |-- *.svg
 |  |  |
-|  |  |- data/
+|  |  |-- data/
 |  |
-|  |- components/
-|  |  |- about-header/
-|  |  |  |- about-header.jade
-|  |  |  |- about-header.sass
-|  |  |  |- about-header.js
+|  |-- components/
+|  |  |-- about--header/
+|  |  |  |-- about-header.jade
+|  |  |  |-- about-header.sass
+|  |  |  |-- about-header.js
 |  |  |
-|  |  |- about/
-|  |  |  |- about-content.jade
-|  |  |  |- about-content.sass
-|  |  |  |- about-content.js
+|  |  |-- about/
+|  |  |  |-- about-content.jade
+|  |  |  |-- about-content.sass
+|  |  |  |-- about-content.js
 |  |
-|  |- global/
+|  |-- global/
 |  |  |
-|  |  |- css/
-|  |  |  |- base
-|  |  |  |  |- _helper.sass
-|  |  |  |  |- _reset.sass
+|  |  |-- css/
+|  |  |  |-- base
+|  |  |  |  |-- _helper.sass
+|  |  |  |  |-- _reset.sass
 |  |  |  |
-|  |  |  |- dependency
-|  |  |  |  |- _mixin.sass
-|  |  |  |  |- _var.sass
+|  |  |  |-- dependency
+|  |  |  |  |-- _mixin.sass
+|  |  |  |  |-- _var.sass
 |  |  |
-|  |  |- jade/
-|  |  |  |- base
-|  |  |  |  |- base.sass
-|  |  |  |  |- base-header.sass
-|  |  |  |  |- base-footer.sass
+|  |  |-- jade/
+|  |  |  |-- base
+|  |  |  |  |-- base.sass
+|  |  |  |  |-- base-header.sass
+|  |  |  |  |-- base-footer.sass
 |  |  |  |
-|  |  |  |- dependency
-|  |  |  |  |- mixin.jade
+|  |  |  |-- dependency
+|  |  |  |  |-- mixin.jade
 |  |
-|  |- pages/
+|  |-- pages/
 |  |  |
-|  |  |- about/
-|  |  |  |- about.jade
-|  |  |  |- about.sass
-|  |  |  |- about.js
+|  |  |-- about/
+|  |  |  |-- about.jade
+|  |  |  |-- about.sass
+|  |  |  |-- about.js
 |  |  |
-|  |  |- index/
-|  |  |  |- index.jade
-|  |  |  |- index.sass
-|  |  |  |- index.js
+|  |  |-- index/
+|  |  |  |-- index.jade
+|  |  |  |-- index.sass
+|  |  |  |-- index.js
 |  |  |
-|  |  |- episodeArchive/
-|  |  |  |- episodeArchive.jade
-|  |  |  |- episodeArchive.sass
-|  |  |  |- episodeArchive.js
+|  |  |-- episodeArchive/
+|  |  |  |-- episodeArchive.jade
+|  |  |  |-- episodeArchive.sass
+|  |  |  |-- episodeArchive.js
 |  |
-|  |- template/
+|  |-- template/
 |  |  |
-|  |  |- template1/
-|  |  |  |- template1.jade
-|  |  |  |- template1.sass
-|  |  |  |- template1.js
+|  |  |-- template1/
+|  |  |  |-- template1.jade
+|  |  |  |-- template1.sass
+|  |  |  |-- template1.js
 |  |  |
-|  |  |- template2/
-|  |  |  |- template2.jade
-|  |  |  |- template2.sass
-|  |  |  |- template2.js
+|  |  |-- template2/
+|  |  |  |-- template2.jade
+|  |  |  |-- template2.sass
+|  |  |  |-- template2.js
 |
-`- Gruntfile.js
-`- package.json
-`- bower.json
-`- README.md
-`- node-modules/
-`- deploy/
+`-- Gruntfile.js
+`-- package.json
+`-- bower.json
+`-- README.md
+`-- node-modules/
+`-- deploy/
 ```
 
 
