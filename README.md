@@ -1,6 +1,6 @@
 # Team Toubus
 
-## Project Structure
+## Structure
 ```
 PROJECT/
 |
