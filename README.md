@@ -14,8 +14,8 @@ PROJECT/
 |  |  |  |-- *.jpg
 |  |  |  |-- *.png
 |  |  |  |-- *.svg
-|  |  |
 |  |  |-- data/
+|  |  |  |-- *.json
 |  |
 |  |-- components/
 |  |  |-- about--header/
